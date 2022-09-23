@@ -1,0 +1,45 @@
+{
+  "status" : "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "Steven Taranto",
+      "title": "NASCAR Cup Series at Pocono results: Chase Elliott declared winner after Denny Hamlin, Kyle Busch disqualified - CBS Sports",
+      "description": "NASCAR disqualified Hamlin and Busch for failing post-race inspection, giving the win to Elliott",
+      "url": "https://www.cbssports.com/nascar/news/nascar-cup-series-at-pocono-results-chase-elliott-declared-winner-after-denny-hamlin-kyle-busch-disqualified/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/25/d5fb295e-e3c6-4b4e-92c6-b03e025df00d/thumbnail/1200x675/ea50171be11069b10ef60175205e1f7a/gettyimages-1410702393.jpg",
+      "publishedAt": "2022-07-25T02:37:00Z",
+      "content": "In a stunning development, NASCAR announced Sunday evening that Chase Elliott has been declared the winner of the M&amp;M's Fan Appreciation 400 at Pocono Raceway after both Denny Hamlin and Kyle Bus… [+8080 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Levi Damien",
+      "title": "Davante Adams says statement about going from ‘Hall of Famer to Hall of Famer’ was misinterpreted - Yahoo Sports",
+      "description": "Davante Adams says his ‘Going from Hall of Famer to Hall of Famer’ statement was misinterpreted",
+      "url": "https://raiderswire.usatoday.com/2022/07/24/davante-adams-says-statement-about-going-from-hall-of-famer-to-hall-of-famer-was-misinterpreted/",
+      "urlToImage": "https://raiderswire.usatoday.com/wp-content/uploads/sites/75/2022/03/USATSI_9008607_168386717_lowres.jpg?w=1024&h=576&crop=1",
+      "publishedAt": "2022-07-24T19:20:29Z",
+      "content": "Davante Adams admitted today that he left out a key word in a statement recently and that statement then went on to take on a life of its own. The statement was something to the effect of leaving one… [+1629 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Kurt Helin",
+      "title": "Report: Sexton has offer from Cavaliers, just below what he expected - NBC Sports",
+      "description": "Sexton missed all but 11 games last season due to a torn meniscus.",
+      "url": "https://nba.nbcsports.com/2022/07/24/report-sexton-has-offer-from-cavaliers-just-below-what-he-expected/",
+      "urlToImage": "https://nba.nbcsports.com/wp-content/uploads/sites/12/2021/05/GettyImages-1316124747-e1620079235457.jpg",
+      "publishedAt": "2022-07-24T18:30:00Z",
+      "content": "Collin Sexton was on his way to what he thought would be a max or at least starting point guard money, north of $20 million a year extension of his rookie contract. Two seasons ago he averaged 24.3 p… [+2297 chars]"
+    }
+  ]
+}
